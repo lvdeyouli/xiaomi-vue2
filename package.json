@@ -13,7 +13,9 @@
   "dependencies": {
     "vue": "^2.5.2",
     "font-awesome": "^4.7.0",
-    "stylus": "^3.0.0-alpha.3",
+    "stylus": "^0.54.5",
+    "stylus-loader": "3.0.1",
+    "less": "^2.7.3",
     "less-loader": "^4.0.5",
     "normalize.css": "^7.0.0"
   },
